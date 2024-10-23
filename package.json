@@ -1,6 +1,6 @@
 {
   "name": "udonswap-permit2",
-  "version": "1.2.2",
+  "version": "1.5.0",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
     "access": "public"
